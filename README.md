@@ -22,7 +22,10 @@
 * **Ultra-Thin Desktop Interface:** No bulky windows, no bloated setup wizards—just a sleek, native SwiftUI interface.
 * **Zero Resource Footprint:** Built completely bare-metal using standard Foundation file system hooks. No tracking, no background helpers, no bloat.
 
----
+
+<p align="center">
+  <img src="./screenshot.png" alt="Screenshot">
+</p>
 
 ## 🚀 Installation & Download
 
