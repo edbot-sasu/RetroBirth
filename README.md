@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="#-installation--download"><strong>Buy on Mac App Store</strong></a> | 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/retro-birth/releases"><strong>Download Free Binary</strong></a>
+  <a href="https://github.com/edbot-sasu/RetroBirth/releases"><strong>Download Free Binary</strong></a>
 </p>
 
 ---
