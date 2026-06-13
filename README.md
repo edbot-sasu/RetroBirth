@@ -35,6 +35,6 @@ Support independent open-source software! Purchasing via the App Store ensures y
 
 ### Option B: Free GitHub Release (Manual)
 If you are a developer or power-user, you can download the pre-compiled application bundle absolutely free.
-1. Head over to the [Releases](https://github.com/YOUR_GITHUB_USERNAME/retro-birth/releases) tab.
+1. Head over to the [Releases](https://github.com/edbot-sasu/RetroBirth/releases) tab.
 2. Download `RetroBirth.zip`, extract it, and drop it into your Applications folder.
 3. *Note: Because this binary is self-compiled outside the App Store ecosystem, you will need to right-click the application icon and select **Open** to clear macOS Gatekeeper the first time.*
