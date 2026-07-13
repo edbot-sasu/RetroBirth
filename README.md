@@ -31,7 +31,7 @@
 
 ### Option A: The Mac App Store (Recommended)
 Support independent open-source software! Purchasing via the App Store ensures you get seamless, automatic background updates, native Apple sandboxed security, and a hassle-free one-click installation.
-> 📥 **[Get Retro Birth on the Mac App Store (€4.99)](#)** *(https://apps.apple.com/fr/app/retrobirth/id6783688052?mt=12RetroBirth)*
+> 📥 **[Get Retro Birth on the Mac App Store (€4.99)](https://apps.apple.com/fr/app/retrobirth/id6783688052?mt=12RetroBirth)**
 
 ### Option B: Free GitHub Release (Manual)
 If you are a developer or power-user, you can download the pre-compiled application bundle absolutely free.
